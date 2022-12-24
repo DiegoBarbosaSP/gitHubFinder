@@ -14,7 +14,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 GitHub Finder feito utilizando React. JS e TypeScript, projeto consome uma API do próprio GitHub para buscar users.
 
-<!-- ## 🔖 Deploy -->
+## 🔖 Deploy
+
+https://git-hub-finder-git-main-diegobarbosasp.vercel.app/
 
 
 
